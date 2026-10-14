@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+      <rect width="640" height="420" rx="18" fill="#e8ece1"/>
+      <g font-family="Arial, sans-serif" fill="#1c2928">
+  <text x="32" y="36" font-size="11" letter-spacing="2" fill="#515f5b">DIAGRAM IMAGE &#8594; STRUCTURED GRAPH</text>
+  <rect x="29" y="69" width="274" height="273" rx="13" fill="#fffdf8" stroke="#bdc8ba"/>
+  <g stroke="#789180" stroke-width="1.5"><path d="M118 154h45M204 194v60h-52" fill="none"/><path d="m155 150 8 4-8 4M160 250l-8 4 8 4" fill="none"/></g>
+  <rect x="55" y="127" width="64" height="54" rx="4" fill="#edf0e8" stroke="#789180"/>
+  <circle cx="207" cy="154" r="45" fill="#d3ee8b" stroke="#789180"/>
+  <path d="M71 234h82v42H71m0-35h82m-82 27h82" fill="#e1e5fa" stroke="#6c79a8"/>
+  <g font-size="11" text-anchor="middle"><text x="87" y="158">Entity</text><text x="207" y="158">Process</text><text x="113" y="258">Data store</text></g>
+  <text x="49" y="319" font-size="11" fill="#515f5b">Read labels. Recover direction.</text>
+  <path d="M317 207h30m-7-7 7 7-7 7" stroke="#244be2" stroke-width="2" fill="none"/>
+  <rect x="362" y="69" width="249" height="273" rx="13" fill="#1c2928"/>
+  <g font-size="13" font-family="monospace" fill="#e5eede"><text x="385" y="106">{</text><text x="399" y="143" fill="#d3ee8b">"nodes": [</text><text x="414" y="169">entity, process, store</text><text x="399" y="195">],</text><text x="399" y="231" fill="#c5d0ff">"edges": [</text><text x="414" y="257">source &#8594; destination</text><text x="399" y="283">]</text><text x="385" y="316">}</text></g>
+  <text x="32" y="383" font-size="11" fill="#515f5b">ORIGINAL CONCEPTUAL EXAMPLE / NOT MODEL OUTPUT</text>
+</g>
+    </svg>

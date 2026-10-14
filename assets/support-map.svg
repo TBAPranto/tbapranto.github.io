@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+      <rect width="640" height="420" rx="18" fill="#182f28"/>
+      <g font-family="Arial, sans-serif" fill="#1c2928">
+  <g stroke="#647e77" stroke-width="1.5"><path d="M94 179H229V121H372M289 264H469V179" fill="none"/><path d="M289 264V344H440" stroke-dasharray="5 6" fill="none"/></g>
+  <g fill="#d3ee8b"><circle cx="229" cy="179" r="5"/><circle cx="289" cy="264" r="5"/><circle cx="469" cy="179" r="5"/></g>
+  <g stroke="#90a99d" stroke-width="1.5" fill="#203b32"><rect x="44" y="106" width="153" height="129" rx="12"/><rect x="58" y="120" width="125" height="85" rx="6"/><path d="M107 235v17h30v-17M86 253h72" fill="none"/><rect x="370" y="73" width="195" height="153" rx="12"/><rect x="386" y="90" width="163" height="32" rx="5"/><rect x="386" y="135" width="163" height="32" rx="5"/><rect x="386" y="180" width="163" height="27" rx="5"/></g>
+  <g stroke="#d3ee8b" stroke-width="2"><path d="M402 99v12m14-12v12m14-12v12m14-12v12m14-12v12m14-12v12m14-12v12m14-12v12m14-12v12M402 144v12m14-12v12m14-12v12m14-12v12m14-12v12m14-12v12m14-12v12" fill="none"/></g>
+  <rect x="228" y="238" width="122" height="55" rx="9" fill="#203b32" stroke="#a4be9a"/>
+  <g fill="#d3ee8b" font-size="12"><text x="65" y="161">END-USER</text><text x="65" y="180">SUPPORT</text><text x="240" y="269">Cat6 / port labels</text><text x="386" y="53">PHYSICAL CONNECTIONS</text></g>
+  <g fill="#d2dfd7" font-size="13"><text x="50" y="286">Workstation</text><text x="390" y="260">Patch panel / equipment</text></g>
+  <circle cx="461" cy="344" r="22" fill="#d3ee8b"/><path d="m451 344 7 7 14-15" stroke="#1c2928" stroke-width="2" fill="none"/>
+  <text x="493" y="342" fill="#d2dfd7" font-size="13">Check.</text><text x="493" y="362" fill="#d2dfd7" font-size="13">Record.</text>
+  <text x="42" y="38" fill="#d2dfd7" font-size="11" letter-spacing="2">PEOPLE + DEVICES + CONNECTIONS</text>
+  <text x="42" y="386" fill="#b8cec1" font-size="11">CONCEPTUAL SUPPORT MAP / NO COMPANY TOPOLOGY</text>
+</g>
+    </svg>

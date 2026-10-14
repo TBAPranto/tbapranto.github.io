@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+      <rect width="640" height="420" rx="18" fill="#182f28"/>
+      <g font-family="Arial, sans-serif" fill="#1c2928">
+  <text x="32" y="36" font-size="11" letter-spacing="2" fill="#d2dfd7">SMALL PROGRAMS. FOUNDATIONAL IDEAS.</text>
+  <g fill="#223e35" stroke="#607d70"><rect x="32" y="78" width="178" height="259" rx="12"/><rect x="231" y="78" width="178" height="259" rx="12"/><rect x="430" y="78" width="178" height="259" rx="12"/></g>
+  <g fill="#d3ee8b" font-size="12"><text x="51" y="108">01 / STRUCTURES</text><text x="250" y="108">02 / FILES</text><text x="449" y="108">03 / GRAPHS</text></g>
+  <text x="121" y="213" font-size="72" text-anchor="middle" fill="#e5eede" font-family="monospace">{ }</text>
+  <g stroke="#c2d3c6" stroke-width="2"><path d="M291 146h39l20 20v74h-59zM330 146v20h20M304 185h32M304 201h32M304 217h24" fill="none"/><path d="M472 171 519 147 565 177 553 227 501 233 472 171M472 171l81 56M519 147l-18 86" fill="none"/></g>
+  <g fill="#d3ee8b" stroke="#182f28" stroke-width="2"><circle cx="472" cy="171" r="7"/><circle cx="519" cy="147" r="7"/><circle cx="565" cy="177" r="7"/><circle cx="553" cy="227" r="7"/><circle cx="501" cy="233" r="7"/></g>
+  <g font-size="15" fill="#e5eede" text-anchor="middle"><text x="121" y="279">Receipt generator</text><text x="320" y="279">Diary records</text><text x="519" y="279">Simple paths</text></g>
+  <g font-size="12" fill="#bdcec3" text-anchor="middle"><text x="121" y="304">C / arrays + arithmetic</text><text x="320" y="304">C++ / file streams</text><text x="519" y="304">C++ / recursion</text></g>
+  <text x="32" y="385" font-size="11" fill="#bdcec3">EDUCATIONAL SOURCE ILLUSTRATION / NOT A RUNTIME CAPTURE</text>
+</g>
+    </svg>

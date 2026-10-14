@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#f5f3ed"/>
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="none" stroke="#cfd4c8"/>
+  <g font-family="Arial,sans-serif" fill="#1c2928">
+    <text x="92" y="112" font-size="16" letter-spacing="3">PEOPLE + TECHNOLOGY + CONNECTED SYSTEMS</text>
+    <text x="85" y="260" font-size="92" letter-spacing="-5">Talal Bin</text>
+    <text x="87" y="367" font-family="Georgia,serif" fill="#244be2" font-size="116" letter-spacing="-4">Akbor.</text>
+    <text x="92" y="437" font-size="24">CSE graduate · IT &amp; network support</text>
+    <text x="92" y="514" font-size="16" fill="#55615e">Aramex experience / Technical projects / Team research</text>
+    <text x="92" y="554" font-size="13" fill="#55615e">Dhaka, Bangladesh</text>
+  </g>
+  <g transform="translate(798 166)">
+    <rect width="266" height="266" rx="38" fill="#1c2928"/>
+    <path d="M71 61v146h135M71 124h87v83" fill="none" stroke="#d3ee8b" stroke-width="8"/>
+    <g fill="#d3ee8b"><circle cx="71" cy="61" r="17"/><circle cx="206" cy="207" r="17"/><circle cx="158" cy="124" r="14"/></g>
+  </g>
+  <path d="M1064 300h44v186H920" fill="none" stroke="#cfd4c8"/>
+  <circle cx="920" cy="486" r="5" fill="#244be2"/>
+</svg>

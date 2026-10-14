@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+      <rect width="640" height="420" rx="18" fill="#eae4f1"/>
+      <g font-family="Arial, sans-serif" fill="#1c2928">
+  <text x="32" y="36" font-size="11" letter-spacing="2" fill="#5f557b">A TUTORIAL-CENTRED LEARNING PLATFORM</text>
+  <g stroke="#9686b4" stroke-width="1.5"><path d="M161 126 273 189M479 126 367 189M158 292 273 235M485 292 367 235" fill="none"/></g>
+  <circle cx="320" cy="212" r="78" fill="#fdfbf7" stroke="#9686b4"/>
+  <path d="M293 177h20l7 6 7-6h20v32h-20l-7 6-7-6h-20zM320 183v31" stroke="#5e467e" stroke-width="2" fill="none"/>
+  <text x="320" y="244" text-anchor="middle" font-size="17" font-weight="bold">Tutorials</text>
+  <g fill="#fdfbf7" stroke="#b6a6c7"><rect x="43" y="77" width="176" height="84" rx="14"/><rect x="421" y="77" width="176" height="84" rx="14"/><rect x="43" y="263" width="176" height="84" rx="14"/><rect x="421" y="263" width="176" height="84" rx="14"/></g>
+  <g font-size="16" font-weight="bold"><text x="63" y="111">Profiles</text><text x="441" y="111">Keyword search</text><text x="63" y="297">Feedback</text><text x="441" y="297">Conversations</text></g>
+  <g font-size="12" fill="#5f557b"><text x="63" y="137">Accounts + editing</text><text x="441" y="137">Title + description</text><text x="63" y="323">Ratings + comments</text><text x="441" y="323">Messages + inbox</text><text x="32" y="387">SOURCE-DERIVED CONCEPT / NOT AN APPLICATION SCREENSHOT</text></g>
+</g>
+    </svg>
