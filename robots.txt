@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /
-# Private review package. Enable indexing after owner approval.
