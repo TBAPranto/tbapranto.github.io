@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
+  <title id="title">My first-year C and C++ programs</title>
+  <desc id="desc">In 2021–2022 I wrote a C receipt generator, a file-backed C++ diary, and a directed route finder in C++. The receipt example totals 120.00 Tk, and the graph branches from vertex 0 before converging at vertex 3.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="7" markerHeight="6" refX="6" refY="3" orient="auto" markerUnits="userSpaceOnUse"><path d="m0 0 7 3-7 3z" fill="#526747"/></marker>
+  </defs>
+  <rect width="640" height="420" rx="10" fill="#eeeadd"/>
+  <text x="27" y="53" fill="#233b31" font-size="33" font-weight="700" letter-spacing="-1">My first programs</text>
+  <text x="612" y="50" fill="#42574b" font-size="20" font-weight="700" text-anchor="end">2021–2022</text>
+  <path d="M28 76h584" stroke="#a6b2a0"/>
+  <g>
+    <rect x="23" y="100" width="191" height="209" rx="7" fill="#daead8"/>
+    <rect x="224" y="100" width="191" height="209" rx="7" fill="#e2e2f0"/>
+    <rect x="425" y="100" width="192" height="209" rx="7" fill="#e0e7c9"/>
+  </g>
+  <!-- The receipt total is taken from the original console example. -->
+  <g>
+    <path d="m64 136 7 4 8-4 8 4 8-4 8 4 8-4 8 4 8-4 8 4 8-4 8 4 8-4 8 4v117l-7-4-8 4-8-4-8 4-8-4-8 4-8-4-8 4-8-4-8 4-8-4-8 4-8-4-8 4z" fill="#fffdf3" stroke="#668771" stroke-width="2.1" stroke-linejoin="round"/>
+    <path d="M79 157h67m-67 13h44m-44 14h43m-43 16h74" fill="none" stroke="#9aafa0" stroke-width="2"/>
+    <path d="M137 170h16m-16 14h16" stroke="#668771" stroke-width="2"/>
+    <text x="116" y="225" fill="#214135" text-anchor="middle" font-size="19" font-weight="700">120.00 Tk</text>
+  </g>
+  <!-- Book and file motif for dated entries stored in files. -->
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M352 139h23l9 10v79h-19" fill="#f7f6ff" stroke="#827e9d" stroke-width="2.3"/>
+    <path d="M375 140v11h9" fill="none" stroke="#827e9d" stroke-width="2"/>
+    <path d="M266 150q21-8 50 0 28-8 51-1v96q-23-6-51 2-28-9-50-2z" fill="#f8f5f2" stroke="#514d7e" stroke-width="3"/>
+    <path d="M317 152v93m-47 5q22-6 47 2 25-8 47-3" fill="none" stroke="#514d7e" stroke-width="2.5"/>
+    <path d="M276 170q14-2 27 1m-27 12q14-2 27 1m-27 12q14-2 27 1m23-25q14-4 28-3m-28 15q16-4 28-3m-28 16q14-4 23-3" fill="none" stroke="#a39bb5" stroke-width="2.4"/>
+    <path d="M344 151v30l5-4 5 3v-31z" fill="#7e72a8"/>
+  </g>
+  <!-- This branch is an excerpt of the directed graph, from vertex 0 to 3. -->
+  <g fill="none" stroke="#526747" stroke-width="2.5" marker-end="url(#arrow)">
+    <path d="m458 197 28-32"/><path d="m458 215 28 30"/>
+    <path d="M502 171v68"/><path d="m515 160 50 36"/><path d="m515 248 50-36"/>
+  </g>
+  <g fill="#fcf9df" stroke="#526747" stroke-width="2"><circle cx="449" cy="206" r="14"/><circle cx="502" cy="155" r="14"/><circle cx="502" cy="254" r="14"/><circle cx="580" cy="205" r="14"/></g>
+  <g fill="#2b4634" text-anchor="middle" font-size="16" font-weight="700">
+    <text x="449" y="212">0</text><text x="502" y="161">1</text><text x="502" y="260">2</text><text x="580" y="211">3</text>
+  </g>
+  <g fill="#243a31" text-anchor="middle" font-size="25" font-weight="700">
+    <text x="118" y="345">Receipt</text><text x="319" y="345">Diary</text><text x="521" y="345">Route finder</text>
+  </g>
+  <g fill="#4f6057" text-anchor="middle" font-size="18">
+    <text x="118" y="376">C · line items</text><text x="319" y="376">C++ · files</text><text x="521" y="376">C++ · graphs</text>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
+  <title id="title">Publishing and discovering a tutorial</title>
+  <desc id="desc">An author profile owns each tutorial. Learners find tutorials by searching the title or description and can leave a rating and comment. Messages connect accounts through the recipient’s inbox.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="9" markerHeight="8" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="m0 0 9 4-9 4z" fill="#65629a"/></marker>
+  </defs>
+  <rect width="640" height="420" rx="10" fill="#eae9f5"/>
+  <text x="28" y="53" fill="#30334f" font-size="34" font-weight="700" letter-spacing="-1.1">Sharing a tutorial</text>
+  <path d="M29 76h582" stroke="#a9abc4"/>
+  <!-- Profiles own tutorials. Search locates them by title or description. -->
+  <g fill="none" stroke="#646198" stroke-width="2.7" stroke-linejoin="round" marker-end="url(#arrow)">
+    <path d="M160 177h55"/><path d="M480 177h-55"/><path d="M320 243v17"/>
+  </g>
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <circle cx="90" cy="161" r="36" fill="#dddff2" stroke="#7c81a9" stroke-width="2"/>
+    <circle cx="90" cy="151" r="9" stroke="#4c5282" stroke-width="3"/>
+    <path d="M73 178q1-15 17-15t17 15" stroke="#4c5282" stroke-width="3"/>
+    <circle cx="549" cy="161" r="36" fill="#dddff2" stroke="#7c81a9" stroke-width="2"/>
+    <circle cx="544" cy="155" r="11" stroke="#4c5282" stroke-width="3"/>
+    <path d="m552 163 13 13" stroke="#4c5282" stroke-width="4"/>
+  </g>
+  <g text-anchor="middle" fill="#333858" font-size="21" font-weight="700">
+    <text x="90" y="226">Author profile</text>
+    <text x="550" y="226">Keyword search</text>
+  </g>
+  <text x="550" y="250" text-anchor="middle" fill="#535c73" font-size="16">Title or description</text>
+  <g>
+    <path d="M238 119h134l26 25v87q0 9-9 9H238q-10 0-10-10V129q0-10 10-10z" fill="#faf9f1" stroke="#666b95" stroke-width="2.6"/>
+    <path d="M372 120v24h25" fill="#d9dbef" stroke="#666b95" stroke-width="2"/>
+    <path d="M250 149h66m-66 10h45" fill="none" stroke="#9ca2bb" stroke-width="2.6"/>
+    <text x="250" y="199" fill="#353c69" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="34">Tutorial</text>
+    <path d="M251 215h116" stroke="#a8afc5" stroke-width="2"/>
+  </g>
+  <rect x="183" y="267" width="274" height="44" rx="6" fill="#d6ddce" stroke="#9aab91" stroke-width="1.5"/>
+  <path d="m202 279 3 6 7 1-5 4 1 7-6-3-6 3 1-7-5-4 7-1z" fill="#55684b"/>
+  <text x="329" y="296" text-anchor="middle" fill="#334a39" font-size="21" font-weight="700">Ratings and comments</text>
+  <!-- A message connects two users independently of the tutorial record. -->
+  <path d="M29 334h582" stroke="#a9abc4"/>
+  <g fill="none" stroke="#535c88" stroke-width="2.6" stroke-linejoin="round">
+    <path d="M34 353h23q3 0 3 3v11q0 3-3 3H44l-8 6v-6h-2q-3 0-3-3v-11q0-3 3-3z"/>
+    <path d="M62 363h6v16h-3v5l-6-5H47v-6"/>
+  </g>
+  <text x="84" y="376" fill="#333858" font-size="22" font-weight="700">Messages</text>
+  <text x="213" y="376" fill="#414b65" font-size="19">Sender account</text>
+  <path d="M365 369h41" stroke="#65629a" stroke-width="2.4" marker-end="url(#arrow)"/>
+  <text x="425" y="376" fill="#414b65" font-size="19">Recipient’s inbox</text>
+</svg>

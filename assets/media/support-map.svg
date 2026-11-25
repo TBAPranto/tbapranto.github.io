@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
+  <title id="title">Tracing a workstation connection</title>
+  <desc id="desc">A typical physical path runs from a workstation through a wall outlet and patch panel to a network switch. I matched the outlet labels to the port records during the office move.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6.4" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="m0 0 7 4-7 4z" fill="#d5eb94"/>
+    </marker>
+    <g id="port" fill="#112820" stroke="#a3c8ac" stroke-width="1.2">
+      <path d="M0 0h13v8H9v2H4V8H0z"/>
+    </g>
+  </defs>
+  <rect width="640" height="420" rx="10" fill="#17372f"/>
+  <text x="28" y="56" fill="#f6f5e9" font-size="34" font-weight="700" letter-spacing="-1.1">Tracing a workstation connection</text>
+  <path d="M29 80h582" stroke="#577566"/>
+  <g fill="#d4e4d7" font-size="18" font-weight="700">
+    <text x="36" y="126">At the desk</text>
+    <text x="351" y="126">In the equipment rack</text>
+  </g>
+  <g fill="none" stroke="#5d7c6d" stroke-width="1.5">
+    <path d="M35 140h251m-251 0v9m251-9v9"/>
+    <path d="M350 140h255m-255 0v9m255-9v9"/>
+  </g>
+  <g fill="none" stroke="#d5eb94" stroke-width="2.7" marker-end="url(#arrow)">
+    <path d="M139 223h49"/>
+    <path d="M275 223h70"/>
+    <path d="M448 223h45"/>
+  </g>
+  <!-- Workstation and wall outlet -->
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="37" y="183" width="99" height="70" rx="5" fill="#253f36" stroke="#e4eddd" stroke-width="3"/>
+    <rect x="44" y="190" width="85" height="50" rx="1.5" fill="#b9d7c0"/>
+    <path d="M53 199h54M53 207h38" stroke="#719d82" stroke-width="2"/>
+    <path d="M84 254v11m-18 1h36" fill="none" stroke="#e4eddd" stroke-width="3.5"/>
+    <circle cx="124" cy="246" r="2.4" fill="#d5eb94"/>
+    <rect x="191" y="182" width="77" height="83" rx="5" fill="#d8e3d1" stroke="#e4eddd" stroke-width="2"/>
+    <circle cx="198" cy="191" r="2" fill="#547364"/>
+    <circle cx="261" cy="255" r="2" fill="#547364"/>
+    <path d="M211 204h37v25h-9v6h-19v-6h-9z" fill="#345346"/>
+    <path d="M216 209v6m6-6v6m6-6v6m6-6v6m6-6v6" stroke="#d5eb94" stroke-width="2"/>
+    <path d="M216 246h26" stroke="#567565" stroke-width="3"/>
+  </g>
+  <!-- Field terminations and switch ports are shown as generic components. -->
+  <g>
+    <rect x="347" y="194" width="99" height="58" rx="3" fill="#375a49" stroke="#c4d8c5" stroke-width="2.5"/>
+    <path d="M357 204h79m-79 35h79" stroke="#789984" stroke-width="2"/>
+    <use href="#port" x="357" y="215"/><use href="#port" x="377" y="215"/>
+    <use href="#port" x="397" y="215"/><use href="#port" x="417" y="215"/>
+    <rect x="497" y="196" width="111" height="55" rx="6" fill="#b9d7c0" stroke="#e4eddd" stroke-width="2.5"/>
+    <path d="M503 210h99" stroke="#789984" stroke-width="1.4"/>
+    <g fill="#1e4935"><circle cx="505" cy="203" r="2"/><circle cx="512" cy="203" r="2"/><circle cx="519" cy="203" r="2"/></g>
+    <use href="#port" x="506" y="222"/><use href="#port" x="525" y="222"/>
+    <use href="#port" x="544" y="222"/><use href="#port" x="563" y="222"/>
+    <path d="M583 223h14m-14 7h14" stroke="#66866c" stroke-width="2"/>
+  </g>
+  <g fill="#f6f5e9" font-size="21" font-weight="700" text-anchor="middle">
+    <text x="87" y="306">Workstation</text>
+    <text x="230" y="306">Wall outlet</text>
+    <text x="397" y="306">Patch panel</text>
+    <text x="551" y="306">Switch</text>
+  </g>
+  <rect x="28" y="338" width="584" height="54" rx="5" fill="#22483b"/>
+  <path d="m46 364 5 5 9-12" fill="none" stroke="#d5eb94" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="74" y="372" fill="#edf1e2" font-size="20">I matched desk outlet labels to the port records.</text>
+</svg>

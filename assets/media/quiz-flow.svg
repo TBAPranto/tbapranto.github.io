@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
+  <title id="title">From a quiz question to a saved score</title>
+  <desc id="desc">The author enters the question, choices, correct option and points. The participant submits a choice. The server checks the answer and stores the result. The example question awards five points.</desc>
+  <rect width="640" height="420" rx="10" fill="#f1e9e2"/>
+  <text x="28" y="54" fill="#3b2e3b" font-size="34" font-weight="700" letter-spacing="-1.1">From question to score</text>
+  <path d="M29 77h582" stroke="#baa9af"/>
+  <g fill="none" stroke="#836879" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M66 170v29m-5-7 5 7 5-7"/>
+    <path d="M66 264v29m-5-7 5 7 5-7"/>
+  </g>
+  <g fill="#f9f4ed" stroke="#c1b6b4" stroke-width="1.6">
+    <rect x="28" y="102" width="584" height="76" rx="6"/>
+    <rect x="28" y="198" width="584" height="76" rx="6"/>
+  </g>
+  <rect x="28" y="294" width="584" height="99" rx="6" fill="#47394b"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8">
+    <circle cx="68" cy="140" r="25" fill="#e9dfd5" stroke="#c7b2ab" stroke-width="1.4"/>
+    <path d="m56 151 3-10 14-14 7 7-14 14z" stroke="#724e59"/>
+    <path d="m69 132 7 7m-20 14h26" stroke="#724e59"/>
+    <circle cx="68" cy="236" r="25" fill="#e4e6d4" stroke="#bac3a4" stroke-width="1.4"/>
+    <circle cx="68" cy="236" r="13.5" stroke="#546544"/>
+    <path d="m61 236 5 5 9-11" stroke="#546544"/>
+    <circle cx="68" cy="343" r="25" fill="#5d4d60" stroke="#8f7d8f" stroke-width="1.4"/>
+    <ellipse cx="68" cy="335" rx="13" ry="5.5" stroke="#f6e9d2"/>
+    <path d="M55 335v15c0 7 26 7 26 0v-15m-26 7c0 7 26 7 26 0" stroke="#f6e9d2"/>
+  </g>
+  <g fill="#3a343f">
+    <text x="112" y="135" font-size="24" font-weight="700">Author</text>
+    <text x="112" y="159" font-size="18">Sets the choices, correct answer, and points.</text>
+    <text x="112" y="231" font-size="24" font-weight="700">Participant</text>
+    <text x="112" y="255" font-size="18">Chooses an answer and submits the quiz.</text>
+  </g>
+  <g fill="#fbf5ea">
+    <text x="112" y="334" font-size="24" font-weight="700">Server</text>
+    <text x="112" y="360" font-size="18">Checks the answer and saves the score.</text>
+  </g>
+  <path d="M487 312v62" stroke="#8b7886"/>
+  <text x="551" y="343" fill="#e2edb4" text-anchor="middle" font-size="30" font-weight="700">5 / 5</text>
+  <text x="551" y="366" fill="#f5e8df" text-anchor="middle" font-size="16">Sample score</text>
+</svg>
